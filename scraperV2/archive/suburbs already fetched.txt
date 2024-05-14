@@ -1,0 +1,96 @@
+// const propertyType = {
+//   propertyType: 'town-house', 
+//   urlPath: 'burleigh-heads-qld-4220', 
+//   suburb: 'burleigh',
+//   pagesToFetch: 25
+// }
+// const propertyType = {
+//   propertyType: 'apartment', 
+//   urlPath: 'burleigh-heads-qld-4220', 
+//   suburb: 'burleigh',
+//   pagesToFetch: 25
+// }
+// const propertyType = {
+//   propertyType: 'town-house', 
+//   urlPath: 'runaway-bay-qld-4216', 
+//   suburb: 'runawayBay',
+//   pagesToFetch: 25
+// }
+// const propertyType = {
+//   propertyType: 'house', 
+//   urlPath: 'nerang-qld-4211', 
+//   suburb: 'nerang',
+//   pagesToFetch: 25
+// }
+// const propertyType = {
+//   propertyType: 'town-house', 
+//   urlPath: 'nerang-qld-4211', 
+//   suburb: 'nerang',
+//   pagesToFetch: 25
+// }
+// const propertyType = {
+//   propertyType: 'apartment', 
+//   urlPath: 'mudgeeraba-qld-4213', 
+//   suburb: 'mudgeeraba',
+//   pagesToFetch: 25
+// }
+// const propertyType = {
+//   propertyType: 'town-house', 
+//   urlPath: 'mudgeeraba-qld-4213', 
+//   suburb: 'mudgeeraba',
+//   pagesToFetch: 25
+// }
+// const propertyType = {
+//   propertyType: 'house', 
+//   urlPath: 'southport-qld-4215', 
+//   suburb: 'southport',
+//   pagesToFetch: 25
+// }
+// const propertyType = {
+//   propertyType: 'town-house', 
+//   urlPath: 'southport-qld-4215', 
+//   suburb: 'southport',
+//   pagesToFetch: 25
+// }
+// const propertyType = {
+//   propertyType: 'apartment', 
+//   urlPath: 'robina-qld-4226', 
+//   suburb: 'robina',
+//   pagesToFetch: 25
+// }
+// const propertyType = {
+//   propertyType: 'town-house', 
+//   urlPath: 'robina-qld-4226', 
+//   suburb: 'robina',
+//   pagesToFetch: 25
+// }
+// const propertyType = {
+//   propertyType: 'house', 
+//   urlPath: 'paradise-point-qld-4216', 
+//   suburb: 'paradisePoint',
+//   pagesToFetch: 25
+// }
+// const propertyType = {
+//   propertyType: 'town-house', 
+//   urlPath: 'paradise-point-qld-4216', 
+//   suburb: 'paradisePoint',
+//   pagesToFetch: 25
+// }
+// const propertyType = {
+//   propertyType: 'apartment', 
+//   urlPath: 'ashmore-qld-4214', 
+//   suburb: 'ashmore',
+//   pagesToFetch: 25
+// }
+// const propertyType = {
+//   propertyType: 'town-house', 
+//   urlPath: 'ashmore-qld-4214', 
+//   suburb: 'ashmore',
+//   pagesToFetch: 25
+// }
+// const propertyType = {
+//   propertyType: 'house', 
+//   urlPath: 'varsity-lakes-qld-4227', 
+//   suburb: 'varsityLakes',
+//   pagesToFetch: 25
+// }
